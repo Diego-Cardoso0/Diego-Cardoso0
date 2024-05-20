@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Diego-Cardoso0
-- 👀 I’m interested in ...Script
-- 🌱 I’m currently learning ... Java Script, Lua
-- 💞️ I’m looking to collaborated on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Diego Cardoso, 16y
+- 🌱 I’m currently learning Java Script and Lua
+- 😄 Pronouns: 
 
 <!---
 Diego-Cardoso0/Diego-Cardoso0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
