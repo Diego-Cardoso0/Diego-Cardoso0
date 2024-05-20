@@ -14,8 +14,11 @@ I am a young Brazilian boy of 16yo. I enjoy creating projects and learning new t
   
 
 🌴 I’m currently learning everything 
+
 🥅 2024 Goals: Learn more about VFX
+
 🦔 Fun fact: I don't have fun fact
+
 📫 Contact me here ds79593@gmail.com
 <!---
 Diego-Cardoso0/Diego-Cardoso0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
