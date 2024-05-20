@@ -10,7 +10,7 @@ I am a young Brazilian boy of 16yo. I enjoy creating projects and learning new t
 [![image](https://github.com/Diego-Cardoso0/Diego-Cardoso0/assets/128190928/a17ccf0e-e453-435d-9b92-b3845d4b096d) 
 ![image](https://github.com/Diego-Cardoso0/Diego-Cardoso0/assets/128190928/d0eb284a-9eb5-4631-abca-5b376e456a50)
 ![image](https://github.com/Diego-Cardoso0/Diego-Cardoso0/assets/128190928/d6ff542c-70b3-46b9-afe3-e7e619206b1c)
-]
+
   
 
 🌴 I’m currently learning everything 
