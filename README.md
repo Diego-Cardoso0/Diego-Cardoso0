@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Diego Cardoso, 16y
+I am a young Brazilian boy of 16yo. I enjoy creating projects and learning new things every day. Currently,  In my free time, apart from programming, I try to create 3D models.
 - 🌱 I’m currently learning Java Script and Lua
-- 😄 Pronouns: 
+  
 
 <!---
 Diego-Cardoso0/Diego-Cardoso0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
